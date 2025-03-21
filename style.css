@@ -52,7 +52,7 @@
   
   }
   .head{
-    background-image:url(../header_bg.png);
+    background-image:url(header_bg.png);
     padding: 32px 0 32px;
   border-color:rgb(225, 94, 18);
     text-align: center;
